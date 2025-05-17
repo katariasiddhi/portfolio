@@ -11,7 +11,7 @@ export default function HeroSection() {
             {
               <TypeAnimation
                 sequence={[
-                  "Hi, I am Vamshi Vallala", // text
+                  "Hi, I am Siddhi Kataria", // text
                 ]}
                 wrapper="span"
                 speed={50}
